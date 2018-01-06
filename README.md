@@ -1,0 +1,1 @@
+Sample todo note application with user authentication
